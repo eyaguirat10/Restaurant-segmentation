@@ -10,7 +10,7 @@ Identify homogeneous groups of restaurants to support strategic and marketing de
 
 - `segmentation_res.py`: Full pipeline including preprocessing, clustering, visualization, and analysis.
 - `restaurants.csv`: Source dataset used for clustering.
-   [Download the dataset](./restaurants.csv)
+- [Download the dataset](./restaurants.csv)
 
 
 ##  Dataset Description
